@@ -1,10 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 and with clean components structure 
+
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/raitalharehman/create-react-app-component)
+
+
 ## Install Packages
 
 In the project directory, you can run:
-
-[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/raitalharehman/create-react-app-component)
 
 ### `yarn or npm i`
 
