@@ -4,6 +4,8 @@ and with clean components structure
 
 In the project directory, you can run:
 
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/raitalharehman/create-react-app-component)
+
 ### `yarn or npm i`
 
 It will install all requires packages.
