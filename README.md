@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 and with clean components structure 
 
+[![Build Status](https://travis-ci.org/raitalharehman/create-react-app-component.svg?branch=master)](https://travis-ci.org/raitalharehman/create-react-app-component)
+
+
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/raitalharehman/create-react-app-component)
 
 
